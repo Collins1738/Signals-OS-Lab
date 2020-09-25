@@ -1,0 +1,2 @@
+signals: signal2.c
+	gcc signal2.c -o main 
